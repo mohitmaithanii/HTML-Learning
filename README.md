@@ -2,4 +2,4 @@
 
 ### Welcome to the HTML (Hypertext markup language ) Beginners Code Repository!
 
-It aims to provide a comprehensive resource for learning JavaScript, covering fundamental concepts as well as advanced topics.
+It aims to provide a comprehensive resource for learning HTML (Hypertext markup language ) , covering fundamental concepts as well as advanced topics.
